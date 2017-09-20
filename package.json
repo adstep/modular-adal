@@ -1,0 +1,30 @@
+{
+  "name": "modular-adal",
+  "version": "1.0.0",
+  "description": "Module shim for Azure AD's azure-activedirectory-library-for-js javascript only implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adstep/modular-adal"
+  },
+  "keywords": [
+    "oauth",
+    "AAD",
+    "adal",
+    "azure-activedirectory-library-for-js",
+    "adal-angular",
+    "angular"
+  ],
+  "author": "Adam Stephenson <stephensonadamj@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adstep/modular-adal/issues"
+  },
+  "homepage": "https://github.com/adstep/modular-adal#readme",
+  "devDependencies": {
+    "adal-angular": "1.x"
+  }
+}
