@@ -1,0 +1,2 @@
+# modular-adal
+This is a shim to bring module support to AzureAD's [azure-activedirectory-library-for-js](https://github.com/AzureAD/azure-activedirectory-library-for-js) javascript only implementation.
